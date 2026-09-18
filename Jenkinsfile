@@ -1,3 +1,4 @@
+// CI/CD pipeline for Jenkins
 pipeline {
     agent any
 
