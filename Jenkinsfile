@@ -1,4 +1,4 @@
-// CI/CD pipeline for Jenkins
+// CI/CD pipeline for Jenkins - automatic trigger verification
 pipeline {
     agent any
 
